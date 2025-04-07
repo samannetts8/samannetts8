@@ -14,50 +14,16 @@ I'm a passionate software developer with half a decade in the financial sector. 
 
 ---
 
-## 💼 Professional Background
-
-Before diving into software development, I spent several years in the [Your Previous Industry] industry where I:
-
-- **[Previous Role #1]:**  
-  - Developed expertise in [specific skills/areas, e.g., project management, client relations, strategic planning].
-  - Led [mention projects, teams, or achievements].
-
-- **[Previous Role #2]:**  
-  - Managed [key responsibilities or processes] which honed my analytical and problem-solving skills.
-  - Implemented [specific improvements or innovations] that made a significant impact.
-
-This experience provided me with a unique perspective on business operations, client engagement, and problem-solving that I now bring into my work as a developer.
-
----
-
-## 🚀 Transition to Software Development
-
-My transition into software development was a deliberate and exciting leap into a field where I could blend my [previous expertise] with modern technology. Here's how I made the shift:
-
-- **Continuous Learning:**  
-  - Completed [name of bootcamp, online courses, or degree, e.g., a Full-Stack Development Bootcamp or a Computer Science degree].  
-  - Earned certifications in [relevant technologies or languages, e.g., JavaScript, Python, or cloud services].
-
-- **Hands-On Projects:**  
-  - Built a portfolio of projects ranging from [brief description of project types, e.g., web applications, data visualizations, mobile apps] that demonstrate my proficiency in [list key technologies].
-  - Contributed to open-source projects on GitHub, focusing on [areas, e.g., clean code practices, collaborative development, or innovation in tech solutions].
-
-- **Community Involvement:**  
-  - Engaged with local and online developer communities by attending meetups, webinars, and contributing to discussion forums.
-  - Mentored aspiring developers, sharing insights from my own career transition.
-
----
-
 ## 🛠️ Technical Skills
 
 - **Languages:**  
-  - JavaScript, Python, [other languages...]
+  - JavaScript, TypeScript, Python, HTML, CSS, SQL, VBA
 - **Frameworks & Libraries:**  
-  - React, Node.js, [others...]
+  - React, Node.js, Vitest, Platwright, BeautifulSoup
 - **Tools & Platforms:**  
-  - Git, Docker, AWS, [others...]
+  - Git, Docker, AWS, Postman, Visual Studio Code, GitHub Actions, GitHub Hooks, pgAdmin4
 - **Databases:**  
-  - PostgreSQL, MongoDB, [others...]
+  - PostgreSQL
 
 ---
 
@@ -65,16 +31,40 @@ My transition into software development was a deliberate and exciting leap into 
 
 Here are a few projects that showcase my skills and growth as a developer:
 
-- **[Project Name 1](GitHub Link):**  
-  A brief description of what the project does, key technologies used, and your role in its development.
+**[Pour Decisions](http://51.21.196.109:5173/):**
 
-- **[Project Name 2](GitHub Link):**  
-  Highlights of the project, the challenges it addressed, and the impact it has.
+##### *GitHub Repo URL: [https://github.com/samannetts8/Pour_Decisions](https://github.com/samannetts8/Pour_Decisions)* #####
 
-- **[Project Name 3](GitHub Link):**  
-  Explanation of the project’s purpose, your contributions, and the tech stack involved.
+##### *AWS Deployment URL: [http://51.21.196.109:5173/](http://51.21.196.109:5173/)* #####
 
----
+###### This is an HTTP page (not HTTPS), so some browsers may block access. Please allow for this and a slight load time. ######
+
+I developed a full-stack web application using Flask and React to scan images of wine lists or bottles and retrieve vintage details, including Vivino critic scores. The Python-based backend, built with Flask, processes API requests and integrates Tesseract OCR for precise text extraction from uploaded images. To gather and store wine data, I implemented web scraping with Beautiful Soup to parse HTML sources and used Supabase’s PostgreSQL database for efficient data management, ensuring seamless storage and remote access.
+
+On the front end, I engineered a dynamic user interface with React, emphasizing modularity and scalability through intuitive routing. The application’s polished design was achieved using Material UI components, offering users an effortless experience for uploading images and viewing results. This project combined OCR, cloud database integration, and responsive front-end design to deliver a tool that simplifies wine vintage research.
+
+**[ShelfLife](https://shelf-life-opal.vercel.app/):**
+
+##### *GitHub Repo URL: [https://github.com/BC18-Shelf-Life/Shelf-Life](https://github.com/BC18-Shelf-Life/Shelf-Life)* #####
+
+##### *Vercel Deployment URL: [https://shelf-life-opal.vercel.app/](https://shelf-life-opal.vercel.app/) * #####
+
+Developed during a one-week team hackathon, ShelfLife is a full-stack web app designed to minimize food waste by tracking expiry dates and generating AI-driven recipe suggestions. My contributions centered on backend development for recipe functionality, and managing DevOps via Docker containerization and Vercel deployment. The project tackled challenges like user authentication (simplified through Supabase’s built-in system) and dynamic ingredient categorization to ensure seamless user workflows.
+
+The tech stack included Next.js with JavaScript scripting and modular styling via CSS Modules. Supabase hosted our scalable PostgreSQL database, while Playwright ensured end-to-end testing reliability. Deployment on Vercel leveraged native Next.js support, and tools like ESLint and Prettier maintained code consistency. By combining AI, cloud-native architecture, and responsive design, ShelfLife delivers an intuitive solution for reducing household food waste.
+
+**[Say It In A Letter](https://postcard-generator-khaki.vercel.app/):**
+
+##### *GitHub Repo URL: [https://github.com/samannetts8/Say-It-In-A-Letter](https://github.com/samannetts8/Say-It-In-A-Letter)* #####
+
+Vercel Deployment URL: https://postcard-generator-khaki.vercel.app/ 
+
+##### *Vercel Deployment URL: [https://postcard-generator-khaki.vercel.app/](https://postcard-generator-khaki.vercel.app/) * #####
+
+Built during a 24 hour hackathon, 'Say It In A Letter' is a React-based web app that lets users design custom digital postcards by adjusting text, backgrounds, fonts, and stickers via an interactive interface. The front end leverages React and JavaScript for dynamic state management using useState, while Babel and Node.js ensure cross-browser compatibility and streamlined dependency handling. Responsive CSS styling delivers a polished, mobile-friendly experience.
+
+My role focused on core functionality: architecting the useState logic and prop drilling system to synchronize component states for real-time customization. I also tackled dynamic styling challenges, implementing state-driven className toggles through collaborative pair programming.
+
 
 ## 🤝 Let's Connect
 
