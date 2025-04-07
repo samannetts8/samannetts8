@@ -24,6 +24,8 @@ I'm a passionate software developer with half a decade in the financial sector. 
   - Git, Docker, AWS, Postman, Visual Studio Code, GitHub Actions, GitHub Hooks, pgAdmin4
 - **Databases:**  
   - PostgreSQL
+ 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samannetts8&layout=compact&theme=radical)
 
 ---
 
@@ -65,23 +67,6 @@ Built during a 24 hour hackathon, 'Say It In A Letter' is a React-based web app 
 
 My role focused on core functionality: architecting the useState logic and prop drilling system to synchronize component states for real-time customization. I also tackled dynamic styling challenges, implementing state-driven className toggles through collaborative pair programming.
 
-
-## 🤝 Let's Connect
-
-I'm always open to discussing tech, sharing experiences, or collaborating on exciting projects. Feel free to reach out:
-
-- **Email:** [your.email@example.com]
-- **LinkedIn:** [Your LinkedIn URL]
-- **Twitter:** [Your Twitter Handle]
-
 ---
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=radical)
-
----
-
-*Thank you for visiting my profile! I'm excited to continue my journey in software development and make a lasting impact through innovative solutions and collaboration.*
+*Thank you for visiting my profile! Please feel free to reach out for any collaboration opportunities or questions about my journey so far!*
